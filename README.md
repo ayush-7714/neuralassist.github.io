@@ -80,9 +80,6 @@ Face recognition section
 
 
 ### Team 😊
-- [Abhishek Anantharam](https://github.com/abhishek0405) 
-- [Gurnehmat Kaur Dhindsa](https://github.com/gkdhindsa)
-- [Nandan Deshpande]( https://github.com/nandand26)
-- [Vishaka Mohan](https://github.com/vishaka-mohan)
+ - AYUSH SINGH & ARYAVRAT MISHRA
 
 
